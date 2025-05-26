@@ -50,7 +50,7 @@ const HowToBuy = () => {
             it to your wallet.
           </span>
         </OrderCard>
-        <OrderCard order={3} title={"swap $Sol for $duis"} style={"-rotate-1"}>
+        <OrderCard order={3} title={"swap $Sol for $BARRY"} style={"-rotate-1"}>
           <span>
             Paste the token address (CA) into wallet and swap{" "}
             <span className="bg-gradient-to-r from-[#9945FF] to-[#14F195] inline-block text-transparent bg-clip-text uppercase font-extrabold text-2xl">
