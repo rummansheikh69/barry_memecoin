@@ -25,9 +25,9 @@ export default function Home() {
           <span className="flex items-center">
             <span className="h-[3px] flex-1 bg-duis"></span>
             <div>
-              <Image
+              <img
                 className=""
-                src="/art1.webp"
+                src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/fdqejptvdd14mlpwvamn"
                 width={300}
                 height={300}
                 alt="dui-5"
@@ -44,9 +44,9 @@ export default function Home() {
           <span className="flex items-center">
             <span className="h-[3px] flex-1 bg-duis"></span>
             <div>
-              <Image
+              <img
                 className=""
-                src="/art1.webp"
+                src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/fdqejptvdd14mlpwvamn"
                 width={300}
                 height={300}
                 alt="dui-8"
@@ -59,16 +59,16 @@ export default function Home() {
         <HowToBuy />
         <div className="text-center">
           <div className="flex justify-center">
-            <Image
+            <img
               className="hidden md:block"
-              src="/p10-trans.webp"
+              src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/ctyj9mrmi2fwodwm3hui"
               width={300}
               height={300}
               alt="dui-6"
             />
-            <Image
+            <img
               className=" mt-10"
-              src="/p3-trans.webp"
+              src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/vd8cyvu1nrxotyn9tsri"
               width={300}
               height={300}
               alt="dui-8"

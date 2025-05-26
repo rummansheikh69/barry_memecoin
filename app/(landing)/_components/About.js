@@ -34,9 +34,9 @@ const About = () => {
         </div>
         <div className="grid lg:grid-cols-2 gap-6">
           <div className=" w-full place-self-center">
-            <Image
+            <img
               className="h-1/2 w-1/2 object-cover rounded-xl place-self-center"
-              src="/p2.webp"
+              src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/gtlqjjtqk3xeho8d15vh"
               width={700}
               height={700}
               alt="Dui Image"

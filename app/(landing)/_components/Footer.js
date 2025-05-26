@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "next/image";
 import Socials from "./Socials";
 
 import { contractAddress } from "@/constants";

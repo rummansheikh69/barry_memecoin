@@ -2,24 +2,24 @@ import React from "react";
 
 const Arts = () => {
   const upperMarquee = [
-    "/p1.webp",
-    "/p2.webp",
-    "/p3.webp",
-    "/p4.webp",
-    "/p5.webp",
-    "/p6.webp",
-    "/p7.webp",
-    "/p8.webp",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/zs2sgjhzit5s1s3njmcn",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/lpm8aufdr1c7wgvsrdcj",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/ton3obt4399evcnssons",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/jbbteerxf0dymcnhfyjk",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/eufzccendkwbu7xerycb",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/pxq3bhlhby6el78f7mv1",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/klrfs00itfxubv0lhopx",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/qvvddsdogkxqy0b09nzu",
   ];
   const lowerMarquee = [
-    "/p9.webp",
-    "/p10.webp",
-    "/p11.webp",
-    "/p12.webp",
-    "/p13.webp",
-    "/p14.webp",
-    "/p15.webp",
-    "/p16.webp",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/cvsdd4sgukhntkyqkwlx",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/lopg6qdnzskensk1fou2",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/vfcmenrbre6gas347xz4",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/gbzwsvbpokpknrz9fiqa",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/wysptz7lcpl3ucbunpdn",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/yu2sgwfla7chjmcktnl3",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/xzbjtuli3brpii6wi24k",
+    "https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/gtlqjjtqk3xeho8d15vh",
   ];
 
   return (
