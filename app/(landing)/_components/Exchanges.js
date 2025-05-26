@@ -5,7 +5,7 @@ const exchanges = [
   {
     flag: "PumpFun",
     title: "Moonshot",
-    link: "https://dexscreener.com/",
+    link: "https://pump.fun/coin/86p6HDtxfGKWDwkH899Jx7HCbY4k1qCKe16BFSSupump",
   },
   // {
   //   flag: "Binance",
